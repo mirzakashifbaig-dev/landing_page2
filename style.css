@@ -126,8 +126,37 @@ button{
     width: 150px ;
     height: auto;
     gap: 10px;
+    color: #292929;
+
 
 }
 
+.sec-3{
+    height: 75vh;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+}
 
+.sec-3 .cont{
+    text-align:left;
+    width: 60vw;
+    font-style: italic;
+    color: #2c2c2c;
+    font-weight: 300;
+    margin-left: 100px;
+
+}
+
+.sec-3 .cont .author{
+    color: #292929;
+    font-style: normal;
+    font-weight:500;
+    font-size: 30px;
+    text-align: end;
+    width: 55vw;
+}
 
