@@ -191,3 +191,16 @@ button{
     border: 2px solid white;
 
 }
+
+
+footer{
+
+    height: auto;
+    background-color: #1F2937;
+    color: white;
+    padding: 50px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+}
